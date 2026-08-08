@@ -246,6 +246,15 @@ nav {
     border-radius: 10px;
     text-align: center;
 }
+#menu {
+    padding: 60px 8%;
+    text-align: center;
+}
+
+#menu h2 {
+    font-size: 38px;
+    margin-bottom: 30px;
+}
 
 nav a {
     text-decoration: none;
