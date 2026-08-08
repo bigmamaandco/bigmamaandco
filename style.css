@@ -232,6 +232,20 @@ nav {
     text-align: center;
     margin: 20px 0;
 }
+.menu-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.food-card {
+    width: 250px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+}
 
 nav a {
     text-decoration: none;
