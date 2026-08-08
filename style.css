@@ -219,3 +219,12 @@ footer {
         font-size: 26px;
     }
 }
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
